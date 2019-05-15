@@ -10,7 +10,7 @@ Aqui se encontra o codigo referente ao cliente java.
 ### Como executar
 
 Primeiramente deve-se incluir na configurações do projeto as 
-bibliotecas _pyrolite-4.23.jar_ e _serpent-1.23.jar_. 
+bibliotecas _pyrolite-4.23.jar_ e _serpent-1.23.jar_ (https://search.maven.org/search?q=razorvine). 
 
 Feita a inclusão utilize o comando "pyro4-ns -n ip_servidor", onde ip_servidor é o ip da
 máquina que irá executar o servidor, para iniciar o servidor de nomes do pyro.
